@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Format as Table",
+  "Type": "Element",
+  "Id": "JoZiT3A7W0Kpl9fGSA7PAA",
+  "Reference": "MYoTFAPzpEqow6SOt_XDMw/JoZiT3A7W0Kpl9fGSA7PAA",
+  "ParentRef": "MYoTFAPzpEqow6SOt_XDMw/MekQCPbvXEixJmbTbUkOCQ",
+  "Created": "2026-10-15T12:13:07.277148Z",
+  "Updated": "2026-10-15T12:13:07.277148Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

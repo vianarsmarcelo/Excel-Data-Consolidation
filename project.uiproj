@@ -1,0 +1,6 @@
+{
+  "Name": "Excel Data Consolidation",
+  "ProjectType": "Process",
+  "Description": "Excel Automation using Modern Design Experience",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "White, Table Style Ligh…",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "xgE0FcnIFECCXsAe1IfOYA",
+  "Reference": "MYoTFAPzpEqow6SOt_XDMw/xgE0FcnIFECCXsAe1IfOYA",
+  "ParentRef": "MYoTFAPzpEqow6SOt_XDMw/NfyBwznbOEGOwESg87e_JQ",
+  "Created": "2026-10-15T15:19:23.7221332Z",
+  "Updated": "2026-10-15T15:19:23.7221332Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
